@@ -58,6 +58,7 @@ GitHub Actions enables you to automate tasks across the software development lif
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) – Detect file changes across branches or PRs.
 - [GitLeaks Action](https://github.com/gitleaks/gitleaks-action) – Scan repositories for secrets and keys.
 
+- [gh-workflow-hardener](https://github.com/indoor47/gh-workflow-hardener) - Pins unpinned GitHub Actions to exact commit SHAs to prevent supply chain attacks from mutable tags. Available as a CLI tool and a GitHub Action.
 ## Testing
 
 - [Setup Test Coverage with Codecov](https://github.com/codecov/codecov-action) – Upload coverage reports to Codecov.
