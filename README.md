@@ -81,6 +81,7 @@ GitHub Actions enables you to automate tasks across the software development lif
 - [stale](https://github.com/actions/stale) – Automatically mark and close stale issues and pull requests.
 - [assign-reviewers](https://github.com/hmarr/auto-assign-action) – Automatically assign reviewers to new pull requests.
 - [release-drafter](https://github.com/release-drafter/release-drafter) – Automate changelog generation and draft releases.
+- [changelog-action](https://github.com/NikitaDmitrieff/changelog-action) – Generate beautiful changelogs from conventional commits, with grouped output by commit type and custom template support.
 
 ## Tools & Utilities
 
